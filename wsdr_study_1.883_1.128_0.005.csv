@@ -1,0 +1,24 @@
+Track Name,Target,Method,Subjective Score (0-100),WSDR (dB),SDR (dB),SIR (dB),SAR (dB),JSON SDR (dB),Sample offset,WSDR Weights,Subjective Score - WSDR (abs)
+Sambasevam Shanmugam - Kaathaadi,vocals,HPLP,20.00,4.63,5.47,5.69,12.29,5.47,-2048,"[1.883, 1.128, 0.005]",15.366258098918122
+Sambasevam Shanmugam - Kaathaadi,vocals,2DFT,17.00,9.42,7.40,10.65,9.65,7.40,-2048,"[1.883, 1.128, 0.005]",7.575164357614565
+Sambasevam Shanmugam - Kaathaadi,vocals,REP2,32.00,3.88,6.20,8.35,9.46,6.20,-2048,"[1.883, 1.128, 0.005]",28.123150313192866
+Sambasevam Shanmugam - Kaathaadi,accompaniment,HPLP,1.00,-0.84,3.93,24.53,5.99,3.93,-2048,"[1.883, 1.128, 0.005]",1.8419434090110727
+Sambasevam Shanmugam - Kaathaadi,accompaniment,2DFT,21.00,2.61,5.87,20.79,6.42,5.87,-2048,"[1.883, 1.128, 0.005]",18.39206228815328
+Sambasevam Shanmugam - Kaathaadi,accompaniment,REP2,12.00,1.62,4.64,8.69,8.80,4.64,-2048,"[1.883, 1.128, 0.005]",10.378040520155913
+Arise - Run Run Run,accompaniment,2DFT,26.50,13.02,11.57,16.76,13.95,11.57,-2048,"[1.883, 1.128, 0.005]",13.476341495300392
+Arise - Run Run Run,accompaniment,HPLP,1.50,-1.77,2.67,23.42,4.30,2.67,-2048,"[1.883, 1.128, 0.005]",3.2698294629021034
+Arise - Run Run Run,accompaniment,REP2,20.00,9.19,11.10,13.83,15.16,11.10,-2048,"[1.883, 1.128, 0.005]",10.80865465768125
+Sambasevam Shanmugam - Kaathaadi,vocals,TAU1,57.00,10.68,13.55,21.76,15.91,13.51,0,"[1.883, 1.128, 0.005]",46.323204168103445
+Sambasevam Shanmugam - Kaathaadi,vocals,IRM2,94.00,20.97,19.76,25.23,20.53,19.76,0,"[1.883, 1.128, 0.005]",73.02525677552003
+Sambasevam Shanmugam - Kaathaadi,accompaniment,IRM2,100.00,18.52,18.25,27.80,18.72,18.25,0,"[1.883, 1.128, 0.005]",81.48304253833544
+Sambasevam Shanmugam - Kaathaadi,accompaniment,TAU1,40.00,12.34,13.44,15.49,14.95,13.44,0,"[1.883, 1.128, 0.005]",27.6572693749505
+Arise - Run Run Run,accompaniment,TAU1,30.50,16.36,15.57,21.93,16.84,15.57,0,"[1.883, 1.128, 0.005]",14.13611147950109
+Arise - Run Run Run,accompaniment,IRM2,94.00,19.04,16.65,21.45,18.55,16.65,0,"[1.883, 1.128, 0.005]",74.95509008226404
+The Doppler Shift - Atrophy,other,UHL3,30.00,3.53,4.67,6.57,6.43,4.67,0,"[1.883, 1.128, 0.005]",26.468878789119117
+The Doppler Shift - Atrophy,other,MWF,59.00,5.74,7.17,11.42,8.34,7.17,0,"[1.883, 1.128, 0.005]",53.2567297319543
+The Doppler Shift - Atrophy,other,IRM2,50.00,6.06,7.25,11.88,8.08,7.25,0,"[1.883, 1.128, 0.005]",43.93910962997378
+The Doppler Shift - Atrophy,other,TAU1,30.00,2.37,4.73,7.19,6.64,4.73,0,"[1.883, 1.128, 0.005]",27.62643351892885
+Mu - Too Bright,drums,TAU1,24.00,14.92,14.73,25.16,15.52,14.73,0,"[1.883, 1.128, 0.005]",9.083262892090659
+Mu - Too Bright,drums,IRM2,74.00,15.77,14.24,24.16,15.00,14.24,0,"[1.883, 1.128, 0.005]",58.23128428147223
+Mu - Too Bright,drums,MWF,68.00,15.33,13.42,24.32,14.07,13.42,0,"[1.883, 1.128, 0.005]",52.67443623248725
+Mu - Too Bright,drums,UHL3,25.00,14.26,14.30,23.99,15.05,14.30,0,"[1.883, 1.128, 0.005]",10.742678055322378
